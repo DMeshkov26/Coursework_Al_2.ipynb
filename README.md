@@ -1,1 +1,1 @@
-# Coursework_Al_2.ipynb
+# Курсовая работа. Блок DA Beginner
